@@ -11,14 +11,7 @@
     "timestamp": 1745539200,
     "category": "groceries",
     "concept": "Weekly groceries",
-    "amount": 45.50
-  },
-  {
-    "id": 3,
-    "timestamp": 1745625600,
-    "category": "transport",
-    "concept": "Bus ticket",
-    "amount": 10
+    "amount": 45.5
   },
   {
     "id": 4,
@@ -32,6 +25,13 @@
     "timestamp": 1745798400,
     "category": "food",
     "concept": "Coffee break",
-    "amount": 3.20
+    "amount": 3.2
+  },
+  {
+    "id": 6,
+    "timestamp": 1746525521148,
+    "category": "transport",
+    "concept": "Flight Ticket",
+    "amount": "299"
   }
 ]
